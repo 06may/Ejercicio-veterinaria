@@ -18,31 +18,31 @@ Para empezar con la actividad, tendrán **5 minutos** para analizar el texto del
 
 - **Cliente:** 
 
-  - Nombre
+- Nombre
 
-  - Apellido
+- Apellido
 
-  - Deja a la perra y pasa a retirarla.
+- Deja a la perra y pasa a retirarla.
 
 
 - **Veterinario:** 
 
-  - Realiza un diagnóstico y lo guarda en el historial.
+- Realiza un diagnóstico y lo guarda en el historial.
 
-  - Nombre, apellido y matrícula.
+- Nombre, apellido y matrícula.
 
 
 - **Mascota:** 
 
-  - Raza.
+- Raza.
 
 - **Diagnósticos:** 
 
-  - Fecha.
+- Fecha.
 
-  - Descripción.
+- Descripción.
 
-  - Mascota asociada.
+- Mascota asociada.
 
 ### Preguntas para analizar desde el paradigma de objetos:
 
@@ -70,15 +70,15 @@ Para empezar con la actividad, tendrán **5 minutos** para analizar el texto del
 
 - **Atributos:**
  
-  - Nombre
+- Nombre
 
-  - Apellido
+- Apellido
  
-  - Matrícula
+- Matrícula
 
 - **Responsabilidad:**
  
-  - Realiza diagnóstico de la mascota.
+- Realiza diagnóstico de la mascota.
 
 ### Posible solución: Crear una clase en Java
 
